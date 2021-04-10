@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "591523447761",
+    "project_id": "notificationapp-15358",
+    "storage_bucket": "notificationapp-15358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591523447761:android:bd629e434dcda290f396f0",
+        "android_client_info": {
+          "package_name": "com.courses.applicationnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591523447761-k341h48errtrd74i7kh0smbo5qi5345s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5yBFH7QjZlLpBi-aj4WvBVrcyGMqQeD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591523447761-k341h48errtrd74i7kh0smbo5qi5345s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591523447761:android:1f598021bcf22aa9f396f0",
+        "android_client_info": {
+          "package_name": "com.courses.notificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591523447761-k341h48errtrd74i7kh0smbo5qi5345s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5yBFH7QjZlLpBi-aj4WvBVrcyGMqQeD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591523447761-k341h48errtrd74i7kh0smbo5qi5345s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
